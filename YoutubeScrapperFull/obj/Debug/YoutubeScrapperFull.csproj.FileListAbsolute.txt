@@ -1,0 +1,9 @@
+D:\Upwork Projects\YoutubeSearchQueryScrapper\YoutubeScrapperFull\YoutubeScrapperFull\bin\Debug\YoutubeScrapperFull.exe.config
+D:\Upwork Projects\YoutubeSearchQueryScrapper\YoutubeScrapperFull\YoutubeScrapperFull\bin\Debug\YoutubeScrapperFull.exe
+D:\Upwork Projects\YoutubeSearchQueryScrapper\YoutubeScrapperFull\YoutubeScrapperFull\bin\Debug\YoutubeScrapperFull.pdb
+D:\Upwork Projects\YoutubeSearchQueryScrapper\YoutubeScrapperFull\YoutubeScrapperFull\bin\Debug\WebDriver.dll
+D:\Upwork Projects\YoutubeSearchQueryScrapper\YoutubeScrapperFull\YoutubeScrapperFull\obj\Debug\YoutubeScrapperFull.csproj.SuggestedBindingRedirects.cache
+D:\Upwork Projects\YoutubeSearchQueryScrapper\YoutubeScrapperFull\YoutubeScrapperFull\obj\Debug\YoutubeScrapperFull.csproj.CoreCompileInputs.cache
+D:\Upwork Projects\YoutubeSearchQueryScrapper\YoutubeScrapperFull\YoutubeScrapperFull\obj\Debug\YoutubeScrapperFull.csproj.CopyComplete
+D:\Upwork Projects\YoutubeSearchQueryScrapper\YoutubeScrapperFull\YoutubeScrapperFull\obj\Debug\YoutubeScrapperFull.exe
+D:\Upwork Projects\YoutubeSearchQueryScrapper\YoutubeScrapperFull\YoutubeScrapperFull\obj\Debug\YoutubeScrapperFull.pdb
